@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+langfuse:
+  baseUrl: "https://cloud.langfuse.com"
+  publicKey: "pk-lf-mockPublicKey123456789"
+  privateKey: "sk-lf-mockPrivateKey123456789"
+
+openai:
+  apiKey: "sk-proj-mockOpenAiKeyForTestingPurposesOnly"
+  model: "gpt-4o-mini"
+  apiUrl: "https://api.openai.com/v1/chat/completions"
